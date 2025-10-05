@@ -37,7 +37,7 @@ const Navigation = () => {
                             alt="GraphRAG"
                             className="h-8 w-8 mr-3"
                         />
-                        <span className="text-xl font-bold glow-text">GraphRAG</span>
+                        <span className="text-xl font-bold glow-text">RecommendIn</span>
                     </div>
 
                     {/* Desktop Navigation */}
